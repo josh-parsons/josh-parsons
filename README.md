@@ -11,13 +11,13 @@
 
 # Hey there, I'm Josh! 👋
 
-I'm a full-stack web developer and Ruby on Rails enthusiast with a passion for building scalable, maintainable systems and optimizing developer workflows. 
-With expertise in Rails, React, and PostgreSQL, I focus on creating clean, efficient code that drives performance and reliability.
+I'm a full-stack web developer and Ruby on Rails enthusiast passionate about building scalable, maintainable systems and optimizing developer workflows. 
+With Rails, React, and PostgreSQL expertise, I focus on creating clean, efficient code that drives performance and reliability.
 
 ### A little about me:
 - 👨‍👩‍👧‍👦 Proud dad of two amazing kiddos, who keep me busy when I’m not coding.
 - 🏔 I like to ski and mountain bike.
-- 💻 I enjoy working in the terminal (currently mastering Vim and tmux) and continually experiment with tools that streamline development processes.
+- 💻 I enjoy experimenting with new tools and technologies.
 
 
 ### Connect with me:
